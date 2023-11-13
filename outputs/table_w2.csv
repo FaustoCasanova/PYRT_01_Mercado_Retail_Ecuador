@@ -1,0 +1,10 @@
+Ciiu_n3,Categoria,Descripcion,2019,2020,2021,2022
+G471,Retail,En comercios no especializados.,,-0.02,0.01,0.13
+G472,Retail,"De alimentos, bebidas y tabaco en comercios especializados.",,-0.15,0.04,0.04
+G473,Retail,De combustibles para vehículos automotores en comercios especializados.,,-0.21,0.51,0.22
+G474,Retail,De equipo de información y de comunicaciones en comercios especializados.,,0.09,0.16,-0.13
+G475,Retail,De otros enseres domésticos en comercios especializados.,,-0.18,0.27,0.24
+G476,Retail,De productos culturales y recreativos en comercios especializados.,,-0.38,0.37,0.24
+G477,Retail,De otros productos en comercios especializados.,,-0.19,0.28,0.47
+G478,Retail,En puestos de venta y mercados.,,-0.23,0.21,0.12
+G479,Retail,"No realizada en comercios, puestos de venta o mercados.",,0.97,-0.23,0.21
