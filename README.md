@@ -29,8 +29,10 @@ El proyecto esta dividido en 2 secciones:
 - [ ] Python   - Presentacion de Resultados con Graficos Plotly
 
 
+---
 ### Resultados del Analisis Exploratorio
-
+Los resultados estan presentados en el Portafolio de Proyectos 
+[Enlace al Portafolio]()
 
 
 
