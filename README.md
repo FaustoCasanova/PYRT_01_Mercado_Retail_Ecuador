@@ -26,8 +26,10 @@ subcategorías que se encuentran bajo la clasificacion CIIU G47 de Ventas al por
 ### Estructura
 El proyecto esta dividido en 2 secciones:
 - [ ] Python   - Limpieza de Datos y Analisis Exploratorio
-- [ ] Python   - Graficacion de Resultados con Plotly
+- [ ] Python   - Presentacion de Resultados con Graficos Plotly
 
+
+### Resultados del Analisis Exploratorio
 
 
 
