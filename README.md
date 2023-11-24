@@ -32,7 +32,7 @@ El proyecto esta dividido en 2 secciones:
 ---
 ### Resultados del Analisis Exploratorio
 Los resultados estan presentados en el Portafolio de Proyectos 
-[Enlace al Portafolio]()
+[Enlace al Portafolio](https://faustocasanova.github.io/)
 
 
 
