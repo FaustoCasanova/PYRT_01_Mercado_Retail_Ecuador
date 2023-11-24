@@ -6,6 +6,7 @@
 El presente proyecto busca realizar un analisis descriptivo del mercado retail en Ecuador y su evolucion durante el periodo de 2019 al 2021. Entendiendo por Sector Retail todas aquellas
 subcategorías que se encuentran bajo la clasificacion CIIU G47 de Ventas al por menor.
 
+#### Resultados del Analisis Exploratorio [Enlace al Portafolio](https://faustocasanova.github.io/PYRT_01_report.html)
 ---
 
 ### Requisitos de Software y Librerias 
@@ -29,10 +30,7 @@ El proyecto esta dividido en 2 secciones:
 - [ ] Python   - Presentacion de Resultados con Graficos Plotly
 
 
----
-### Resultados del Analisis Exploratorio
-Los resultados estan presentados en el Portafolio de Proyectos 
-[Enlace al Portafolio](https://faustocasanova.github.io/)
+
 
 
 
